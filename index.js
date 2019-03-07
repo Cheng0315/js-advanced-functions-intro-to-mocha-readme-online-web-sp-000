@@ -18,6 +18,6 @@ function favoriteIceCream(flavor) {
   return `I love ${flavor}`
 }
 
-function roundDown() {
-
+function roundDown(num) {
+  return Math.floor(num)
 }
