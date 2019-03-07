@@ -1,4 +1,4 @@
-function favoriteIceCream(flavor) {
+function shouting() {
 
 }
 
@@ -14,10 +14,10 @@ function sayHeyFriend(name) {
   return `Hey, ${name}!`
 }
 
-function favoriteIceCream() {
+function favoriteIceCream(flavor) {
   return `I love ${flavor}`
 }
 
-function favoriteIceCream() {
+function roundDown() {
 
 }
